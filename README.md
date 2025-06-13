@@ -5,6 +5,11 @@ textminer-pro는 불용어 제거, 핵심 키워드 추출, 텍스트 요약, �
 
 ---
 
+## PyPI 패키지 링크  
+[https://pypi.org/project/textminer-pro-jihoonLee/](https://pypi.org/project/textminer-pro-jihoonLee/)
+
+---
+
 ## 설치 방법
 
 PyPI에 정식 등록된 패키지이므로 다음 명령어로 설치할 수 있습니다:
